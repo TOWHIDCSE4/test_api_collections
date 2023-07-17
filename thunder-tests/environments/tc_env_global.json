@@ -1,0 +1,59 @@
+{
+    "_id": "1365789b-9224-468a-b4a0-af0cbb648bc4",
+    "name": "(Global Env)",
+    "default": false,
+    "global": true,
+    "sortNum": -2,
+    "created": "2022-12-16T07:47:07.938Z",
+    "modified": "2022-12-16T07:47:07.938Z",
+    "data": [
+        {
+            "name": "path",
+            "value": "http://localhost:8001/api"
+        },
+        {
+            "name": "path_release",
+            "value": "https://rencity-api.ikitech.vn/api"
+        },
+        {
+            "name": "token",
+            "value": "9OXt9sd3qjj9h0jb1zDJHBnmPgWwdh3FX9LGuZG4"
+        },
+        {
+            "name": "path_dev",
+            "value": "http://gohomydev.ikitech.vn/api"
+        },
+        {
+            "name": "path_data_host",
+            "value": "axpbjBWa5NSwfXjF1k9l8bZXzenyOpt13ubNgDdN"
+        },
+        {
+            "name": "path_data",
+            "value": "https://rencity-api.ikitech.vn/api"
+        },
+        {
+            "name": "trang",
+            "value": "9OXt9sd3qjj9h0jb1zDJHBnmPgWwdh3FX9LGuZG4"
+        },
+        {
+            "name": "hoahoa",
+            "value": "BiAPbRy9aKkHf4Qr9ft46VgdSV7AyjSdH0eSICG6"
+        },
+        {
+            "name": "token_3",
+            "value": "UMubko0DaKvYNvtI7Cgcu1IY7dmB6riDkE9qdyT5"
+        },
+        {
+            "name": "a",
+            "value": "ZLS1BgE7AdYHh5XXNGhANOwK11RafRJei37wVoIU"
+        },
+        {
+            "name": "aa",
+            "value": "CN2GSQoOK9niOrtQZSn1McE9sAYljMIVXFsQFEDM"
+        },
+        {
+            "name": "c_dev",
+            "value": "HaQ3KK3OfpelTH15bVHDewJ7zTuhex8zYbtkhckQ"
+        }
+    ]
+}
